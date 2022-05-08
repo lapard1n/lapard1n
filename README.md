@@ -5,9 +5,9 @@
 - 🌍 From <u>**Санкт-Петербург**</u> ~
 ---
 > - 📄 <u>Tech Stack</u>:
->   - 📑 Layout: HTML5 & PUG + CSS3 & SASS/SCSS
+>   - 📑 Layout: HTML5 & PUG/Jade + CSS3 & SASS/SCSS
 >     - 📄 Methodologies: BEM
->   - 📝 JavaScript: basic skills~
+>   - 📝 JavaScript: basics + OOP~
 > - 📄 <u>Other</u>: git, npm, Gulp, Webpack
 > - 📃 <u>Frameworks & libraries</u>: null
 ---
