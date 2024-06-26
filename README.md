@@ -18,10 +18,9 @@
 > >   - responsive-adaptive,
 > >   - pixelperfet or pragmatic,
 >
-> > - 📝 JavaScript:
+> > - 📝 JavaScript ES6+:
 > >   - base patterns of OOP,
-> >   - ECMAScript 6+,
-> >   - AJAX, Fetch API,
+> >   - requests with AJAX, Fetch API,
 > >   - EventLoop: Promises, Async/Awayt etc,
 > >   - cookies, local/session storage, IndexDB,
 > >   - WEB, BOM, DOM, CSSOM API's...
