@@ -2,9 +2,9 @@
 
 ---
 
-- 💻 <u>**Front-end**</u> разработчик _Junior+_
-- 🎵 С чашечкой `lofi` & `jazz rap` за кодом
-- 🌍 From <u>**Санкт-Петербург**</u>, wherever you want ~
+- 💻 <u>**Front-end**</u> разработчик _Junior +_
+- 🎵 С чашечкой `lo-fi` & `jazz-rap` за кодом
+- 🌍 From <u>**Санкт-Петербург**</u>, или куда позовете ~
 
 ---
 
@@ -12,23 +12,29 @@
 >
 > - 📄 <u>Tech Stack</u>:
 >
-> > - 📑 Layout: HTML5 & PUG/Jade + CSS3 & SASS/SCSS,
-> >
-> >   - flex + grid (tabel :D) _layout_,
-> >   - responsive-adaptive _layout_,
-> >   - pixelperfet & pragmatic _layout_,
-> >
+> > - 📑 Layout HTML5 & CSS3:
+> >   - PUG & SASS/<u>SCSS</u>,
+> >   - flex + grid (and tabel :D),
+> >   - responsive-adaptive,
+> >   - pixelperfet or pragmatic,
+>
 > > - 📝 JavaScript:
-> >   - whatever you need 👍
+> >   - base patterns of OOP,
+> >   - ECMAScript 6+,
+> >   - AJAX, Fetch API,
+> >   - EventLoop: Promises, Async/Awayt etc,
+> >   - cookies, local/session storage, IndexDB,
+> >   - WEB, BOM, DOM, CSSOM API's...
+> >   - _and anything else you need_ 👍
 >
 > - 📃 <u>Frameworks & libraries</u>: Tailwind CSS, Bootstrap 5, React in process...
-> - 📄 <u>Approaches</u>: BEM, prefer-const, JSDoc
-> - 📄 <u>Other</u>: JSON, git, npm, ESLint/Prettier, Gulp, Webpack, Babel
+> - 📄 <u>Approaches</u>: BEM, prefer-const, JSDoc.
+> - 📄 <u>Other</u>: git, npm, Gulp, Webpack, Babel.
+>
+> > **P.s.** English (B1) ~
 >
 > <img style="visibility: hidden;"></img>
 
 ---
 
 #### Найти меня можно здесь: 👉 [`t.me 💬`](https://t.me/lapard1n/) 👈
-
-![This is me in the process:](./longLink.png)
