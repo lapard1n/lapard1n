@@ -25,7 +25,6 @@
 > >   - EventLoop: Promises, Async/Awayt etc,
 > >   - cookies, local/session storage, IndexDB,
 > >   - WEB, BOM, DOM, CSSOM API's...
-> >   - _and anything else you need_ 👍
 >
 > - 📃 <u>Frameworks & libraries</u>: Tailwind CSS, Bootstrap 5, React in process...
 > - 📄 <u>Approaches</u>: BEM, prefer-const, JSDoc.
