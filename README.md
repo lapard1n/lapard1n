@@ -2,36 +2,36 @@
 
 ---
 
-- 💻 <u>**Front-end**</u> разработчик _Junior +_
-- 🎵 С чашечкой `lo-fi` & `jazz-rap` за кодом
-- 🌍 From <u>**Санкт-Петербург**</u>, или куда позовете ~
+- 💻 <u>**Frontend**</u> разработчик _Junior +_
+- 🎵 С чашечкой `lo-fi` & `jazz-rap` за кодом;
+- 🌍 From <u>**Санкт-Петербург**</u>, готов собирать чемоданы ~
 
 ---
 
-> <img style="visibility: hidden;"></img>
+> <img style="visibility: hidden"></img>
 >
 > - 📄 <u>Tech Stack</u>:
 >
 > > - 📑 Layout HTML5 & CSS3:
 > >   - PUG & SASS/<u>SCSS</u>,
-> >   - flex + grid (and tabel :D),
-> >   - responsive-adaptive,
 > >   - pixelperfet or pragmatic,
+> >   - responsive-adaptive,
+> >   - crossbrowsing,
 >
 > > - 📝 JavaScript ES6+:
 > >   - base patterns of OOP,
-> >   - requests with AJAX, Fetch API,
+> >   - requests with AJAX, <u>Fetch API</u>,
 > >   - EventLoop: Promises, Async/Awayt etc,
 > >   - cookies, local/session storage, IndexDB,
-> >   - WEB, BOM, DOM, CSSOM API's...
+> >   - WEB, BOM/DOM/CSSOM API's etc.
 >
 > - 📃 <u>Frameworks & libraries</u>: Tailwind CSS, Bootstrap 5, React in process...
-> - 📄 <u>Approaches</u>: BEM, prefer-const, JSDoc.
-> - 📄 <u>Other</u>: git, npm, Gulp, Webpack, Babel.
+> - 📃 <u>Approaches</u>: BEM, prefer-const, JSDoc...
+> - 📃 <u>Other</u>: git, npm, Gulp, Webpack...
 >
-> > **P.s.** English (B1) ~
+> > **P.s.** English skills close to (B1) ~
 >
-> <img style="visibility: hidden;"></img>
+> <img style="visibility: hidden"></img>
 
 ---
 
