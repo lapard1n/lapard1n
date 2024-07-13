@@ -13,8 +13,8 @@
 > - 📄 <u>Tech Stack</u>:
 >
 > > - 📑 Layout HTML5 & CSS3:
+> >   - pixel perfect or pragmatic,
 > >   - PUG & SASS/<u>SCSS</u>,
-> >   - pixelperfet or pragmatic,
 > >   - responsive-adaptive,
 > >   - crossbrowsing,
 >
@@ -23,13 +23,13 @@
 > >   - requests with AJAX, <u>Fetch API</u>,
 > >   - EventLoop: Promises, Async/Awayt etc,
 > >   - cookies, local/session storage, IndexDB,
-> >   - WEB, BOM/DOM/CSSOM API's etc.
+> >   - WEB, BOM/DOM/CSSOM and other API's.
 >
 > - 📃 <u>Frameworks & libraries</u>: Tailwind CSS, Bootstrap 5, React in process...
 > - 📃 <u>Approaches</u>: BEM, prefer-const, JSDoc...
 > - 📃 <u>Other</u>: git, npm, Gulp, Webpack...
 >
-> > **P.s.** English skills close to (B1) ~
+> > **P.s.** <u>English skills close to (B1) ~</u>
 >
 > <img style="visibility: hidden"></img>
 
